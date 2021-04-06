@@ -1,0 +1,2 @@
+# Text_emotions_detection
+The detection of text emotions is a content-based classification problem. Detecting a person’s emotions is a difficult task, but detecting the emotions using text written by a person is even more difficult as a human can express his emotions in any form. Usually, emotions are expressed as joy, sadness, anger, surprise, hate, fear, etc. Recognizing this type of emotion from a text written by a person plays an important role in applications such as chatbots, customer support forums, customer reviews, etc.
